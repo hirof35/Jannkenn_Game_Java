@@ -5,6 +5,7 @@
 
 Java Swingを使用して開発された、シンプルかつ中毒性の高い本格ジャンケンゲームです。
 アニメーション、サウンドエフェクト、および勝利条件システムを搭載しており、CPUとの白熱した心理戦（？）を楽しめます。
+<img width="540" height="549" alt="スクリーンショット 2026-05-04 215007" src="https://github.com/user-attachments/assets/af696c0d-1664-480f-ba04-224e6846e45a" />
 
 ## 🚀 主な機能
 
@@ -54,4 +55,3 @@ This project is open-sourced under the MIT License.
 
 
 
-<img width="540" height="549" alt="スクリーンショット 2026-05-04 215007" src="https://github.com/user-attachments/assets/af696c0d-1664-480f-ba04-224e6846e45a" />
