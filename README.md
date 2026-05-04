@@ -51,3 +51,7 @@ javax.sound.sampled.Clip: 低遅延なオーディオ再生を実現。
 
 📝 ライセンス
 This project is open-sourced under the MIT License.
+
+
+
+<img width="540" height="549" alt="スクリーンショット 2026-05-04 215007" src="https://github.com/user-attachments/assets/af696c0d-1664-480f-ba04-224e6846e45a" />
